@@ -1,0 +1,45 @@
+h1{
+	color: #8C58A4;
+}
+
+.container-fluid{
+	background-size: cover;
+	position: absolute;
+	height: 800px;
+}
+
+#noteBody,#noteTitle, #input-font, #themes{
+	background-color: white;
+}
+
+#noteMaster option{
+	background-color: white;
+	background-size: cover;
+}
+
+.NoteHeader{
+	margin-top: px;
+}
+
+.container{
+	padding: 15px;
+}
+
+#noteBody{
+	height: 200px!important;
+}
+
+select{
+	height: 30px!important;
+}
+
+#noteDisplay{
+	padding: 20px;
+	border: 1px solid #121212;
+	background-color: aliceblue;
+	border-radius: 5px;
+}
+
+#NoteBox{
+	margin-top: 50px;
+}
